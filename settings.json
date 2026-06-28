@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "hamster.aternos.host",
+    "ip": "ax1lleazz.aternos.me",
     "port": 31457,
     "version": "",
     "try-creative": false
